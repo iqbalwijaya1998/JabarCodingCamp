@@ -1,0 +1,5 @@
+Pengalaman Coding saya :
+1. Pertama kali ada di Penulisan Ilmiah saya saat saya masih kuliah di Semester 6, yaitu membuat Aplikasi Location Based Service SMAN Jakarta Timur berbasis Android menggunakan bahasa Java dengan aplikasi Android Studio.
+2. Di bulan Januari 2021 membuat Website E-commerce dengan HTML/CSS dan Laravel
+3. Di bulan Maret 2021 membuat Website Booking Hotel dengan React Js dan Node Js
+4. Bulan April 2021 membuat tampilan Website yg sebelumnya sudah dibuat UI nya dengan Adobe XD
